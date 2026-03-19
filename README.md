@@ -91,7 +91,7 @@ ________________________________________
 
 
 
-<img width="1919" height="1013" alt="image" src="https://github.com/user-attachments/assets/c977e50a-5b39-47ca-8407-3b118b6ec5cc" />
+
 
 ________________________________________
 # Result
